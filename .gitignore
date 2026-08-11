@@ -1,0 +1,19 @@
+# Python
+backend/venv/
+backend/__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Django environment variables
+backend/.env
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# General environment files
+.env
+
+# IDE
+.vscode/
+.idea/
